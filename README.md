@@ -3,7 +3,7 @@
 A simple boilerplate with the basic setup to work with react.
 
 It includes webpack for bundling and babel for transpiling your es6 javascript to es5.
-It also has support for sass and file imports.
+It also has support for sass, file imports and autoprefixing of your compiled css file.
 
 ### Usage:
 1. clone this repository or download the zip file.
