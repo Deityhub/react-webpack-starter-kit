@@ -29,5 +29,11 @@
   "dependencies": {
     "react": "16.7.0",
     "react-dom": "16.7.0"
-  }
+  },
+  "browserslist": [
+    "> 0.5%",
+    "last 2 versions",
+    "IE 10",
+    "not dead"
+  ]
 }
