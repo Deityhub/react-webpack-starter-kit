@@ -1,6 +1,6 @@
 # react-webpack-starter-kit
 
-A simple boilerplate with the basic setup to work with react.
+A simple boilerplate for react.
 
 It includes webpack for bundling and babel for transpiling your es6 javascript to es5.
 It also has support for sass, file imports and autoprefixing of your compiled css file.
